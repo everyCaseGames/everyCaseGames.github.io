@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 1170px;
+  max-width: 90%;
+  margin: auto;
+}
+
+.hero {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+.hero__image {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  filter: brightness(0.8);
+}
+.hero__claim {
+  position: absolute;
+  width: 100%;
+  top: 30%;
+  z-index: 2;
+}
+.hero__text {
+  text-align: center;
+  font-size: 3rem;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 5px black;
+}
+.hero__button {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+.hero__button-text {
+  display: block;
+  background-color: teal;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background-color 0.5s;
+  box-shadow: 0.5px 0.5px 2.5px black;
+  padding: 1rem 2rem;
+  margin-top: 5rem;
+  font-size: 2rem;
+}
+.hero__button-text:hover {
+  background-color: orangered;
+}
+
+.about-us {
+  background-color: #333;
+  color: white;
+  padding: 2rem 0;
+}
+.about-us__heading {
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+.about-us__text {
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+/*# sourceMappingURL=style.css.map */
