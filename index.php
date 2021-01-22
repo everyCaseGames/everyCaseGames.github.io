@@ -36,7 +36,7 @@
             </h2>
 
             <p class="about-us__text">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium exercitationem dicta quidem ipsa enim, molestiae provident omnis sapiente aliquid ea ratione atque harum nemo veritatis explicabo! Iure illo amet qui.
+                HI: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium exercitationem dicta quidem ipsa enim, molestiae provident omnis sapiente aliquid ea ratione atque harum nemo veritatis explicabo! Iure illo amet qui.
             </p>
         </div>
     </section>
